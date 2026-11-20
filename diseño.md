@@ -1,0 +1,1 @@
+El diseño que sentienda y que no sea enredado, el usuario debe sentir que la app es intuitiva y fácil de usar.
